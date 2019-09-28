@@ -2,25 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6b986819-6c83-42bf-944f-8ff3f3ef7d38" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/CS4773Assignment2/Deck/Card.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/CS4773Assignment2/Deck/CardRank.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/CS4773Assignment2/Deck/CardSuit.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/CS4773Assignment2/Deck/Deck.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/CS4773Assignment2/Deck/Hand.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/CS4773Assignment2/Game/GameException.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/CS4773Assignment2/Game/Launcher.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/CS4773Assignment2/Game/War.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/CS4773Assignment2/Game/WarVariation1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/CS4773Assignment2/Game/WarVariation2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/CS4773Assignment2/Game/WarVariation3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/CS4773Assignment2/META-INF/CS4773Assignment2.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/CS4773Assignment2/Misc/PrintContext.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/CS4773Assignment2/Player/Player.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/CS4773Assignment2/test/TestVariation1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/CS4773Assignment2/test/TestVariation2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/CS4773Assignment2/test/TestVariation3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -34,7 +16,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Game/WarVariation1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1775">
+            <state relative-caret-position="2039">
               <caret line="102" column="43" selection-start-line="102" selection-start-column="43" selection-end-line="102" selection-end-column="43" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -254,11 +236,12 @@
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1569706034072" />
-    <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1569706640542" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -568,7 +551,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Game/WarVariation1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1775">
+        <state relative-caret-position="2039">
           <caret line="102" column="43" selection-start-line="102" selection-start-column="43" selection-end-line="102" selection-end-column="43" />
           <folding>
             <element signature="imports" expanded="true" />
