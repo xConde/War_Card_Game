@@ -1,3 +1,7 @@
+War Card Game using 3 variations of the game.
+
+
+
 Implement at least 4 of the grasp and/or solid principles we have covered
 
 GRASP:
