@@ -1,22 +1,38 @@
 package Deck;
 
+/**
+ * This class builds an object Card. Card is comprised of a rank and suit. Card implements comparable<Card> and can
+ * use the compareTo function to compare another card.
+ *
+ * @author Ed
+ */
 public class Card implements Comparable<Card> {
 
     private CardRank rank;
     private CardSuit suit;
 
-    public Card (CardRank rank, CardSuit suit) {
+
+    /**
+     * Constructor Card
+     *
+     * @param rank
+     * @param suit
+     */
+    public Card(CardRank rank, CardSuit suit) {
         this.rank = rank;
         this.suit = suit;
     }
 
-    public int compareTo(Card secondCard) { return this.getRank().compareTo(secondCard.getRank()); }
-
-    public boolean sameRank(Card secondCard) { return rank.equals(secondCard.rank); }
-
-    public String getSuit() {
-        return suit.getSuitText();
+    /**
+     * compareTo function used to compare to objects of card by ranking.
+     *
+     * @param secondCard
+     * @return
+     */
+    public int compareTo(Card secondCard) {
+        return this.getRank().compareTo(secondCard.getRank());
     }
+
 
     public Integer getRank() {
         return rank.getValue();
@@ -26,6 +42,13 @@ public class Card implements Comparable<Card> {
         return rank.getFullName();
     }
 
+    /**
+     * toString Override formats a card printout as "Rank of Suit", ex. "Ace of Hearts"
+     *
+     * @return
+     */
     @Override
-    public String toString() { return this.printRank() + " of " + this.suit.getSuitText(); }
+    public String toString() {
+        return this.printRank() + " of " + this.suit.getSuitText();
+    }
 }
